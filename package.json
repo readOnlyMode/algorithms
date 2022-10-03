@@ -1,0 +1,28 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "buble-sort.js",
+  "scripts": {
+    "bubble": "npx nodemon buble-sort.js",
+    "binary": "npx nodemon binary-search.js",
+    "choose": "npx nodemon choose-sort.js",
+    "insertion": "npx nodemon insertion-sort.js",
+    "list": "npx nodemon linked-list.js",
+    "cross": "npx nodemon cross-elems-array.js",
+    "insertions": "npx nodemon insertions.js",
+    "stack": "npx nodemon stack.js",
+    "queue": "npx nodemon queue.js",
+    "quick": "npx nodemon quick-sort.js",
+    "merge": "npx nodemon merge-sort.js",
+    "work": "npx nodemon work.js",
+    "work2": "npx nodemon work2.js",
+    "work3": "npx nodemon work3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
